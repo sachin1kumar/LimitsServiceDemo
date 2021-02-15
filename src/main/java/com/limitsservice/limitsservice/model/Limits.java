@@ -1,11 +1,11 @@
 package com.limitsservice.limitsservice.model;
 
-public class Limit {
+public class Limits {
 
     private int minimum;
     private int maximum;
 
-    public Limit(int minimum, int maximum) {
+    public Limits(int minimum, int maximum) {
         this.minimum = minimum;
         this.maximum = maximum;
     }
